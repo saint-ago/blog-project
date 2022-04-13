@@ -1,2 +1,2 @@
-# blog-project
+# Blog-project
 Simple blog using PHP
